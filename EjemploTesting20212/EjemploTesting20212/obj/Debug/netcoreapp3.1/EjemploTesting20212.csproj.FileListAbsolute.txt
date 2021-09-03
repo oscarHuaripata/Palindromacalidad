@@ -1,0 +1,13 @@
+F:\2021Calidad\ejemplo2\EjemploTesting20212\EjemploTesting20212\bin\Debug\netcoreapp3.1\EjemploTesting20212.exe
+F:\2021Calidad\ejemplo2\EjemploTesting20212\EjemploTesting20212\bin\Debug\netcoreapp3.1\EjemploTesting20212.deps.json
+F:\2021Calidad\ejemplo2\EjemploTesting20212\EjemploTesting20212\bin\Debug\netcoreapp3.1\EjemploTesting20212.runtimeconfig.json
+F:\2021Calidad\ejemplo2\EjemploTesting20212\EjemploTesting20212\bin\Debug\netcoreapp3.1\EjemploTesting20212.runtimeconfig.dev.json
+F:\2021Calidad\ejemplo2\EjemploTesting20212\EjemploTesting20212\bin\Debug\netcoreapp3.1\EjemploTesting20212.dll
+F:\2021Calidad\ejemplo2\EjemploTesting20212\EjemploTesting20212\bin\Debug\netcoreapp3.1\EjemploTesting20212.pdb
+F:\2021Calidad\ejemplo2\EjemploTesting20212\EjemploTesting20212\obj\Debug\netcoreapp3.1\EjemploTesting20212.csprojAssemblyReference.cache
+F:\2021Calidad\ejemplo2\EjemploTesting20212\EjemploTesting20212\obj\Debug\netcoreapp3.1\EjemploTesting20212.AssemblyInfoInputs.cache
+F:\2021Calidad\ejemplo2\EjemploTesting20212\EjemploTesting20212\obj\Debug\netcoreapp3.1\EjemploTesting20212.AssemblyInfo.cs
+F:\2021Calidad\ejemplo2\EjemploTesting20212\EjemploTesting20212\obj\Debug\netcoreapp3.1\EjemploTesting20212.csproj.CoreCompileInputs.cache
+F:\2021Calidad\ejemplo2\EjemploTesting20212\EjemploTesting20212\obj\Debug\netcoreapp3.1\EjemploTesting20212.dll
+F:\2021Calidad\ejemplo2\EjemploTesting20212\EjemploTesting20212\obj\Debug\netcoreapp3.1\EjemploTesting20212.pdb
+F:\2021Calidad\ejemplo2\EjemploTesting20212\EjemploTesting20212\obj\Debug\netcoreapp3.1\EjemploTesting20212.genruntimeconfig.cache
